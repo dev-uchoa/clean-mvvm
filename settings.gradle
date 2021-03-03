@@ -1,0 +1,4 @@
+
+include ':helper:network'
+include ':app'
+rootProject.name = "TheMealDB"
